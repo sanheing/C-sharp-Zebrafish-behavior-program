@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BehaveAndScan01">
+</Property><Property Name="Solution File" Value="C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\BehaveAndScan01.sln">
+</Property><Property Name="Date" Value="Sunday, May 26, 2013">
+</Property><Property Name="Time" Value="15:19:57 PM">
+</Property></Properties><Event ErrorLevel="0" Project="BehaveAndScan01" Source="BehaveAndScan01.csproj" Description="Project file successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\BehaveAndScan01.csproj">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="BehaveAndScan01.csproj.user" Description="Project user file successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\BehaveAndScan01.csproj.user">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="App.xaml.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Window1.xaml.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Window1.xaml.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="StimAndSwim\Oscilloscope.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\StimAndSwim\Oscilloscope.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="StimAndSwim\StimEphysOscilloscopeControl.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\StimAndSwim\StimEphysOscilloscopeControl.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="HandyCode\ParseFunctions.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\HandyCode\ParseFunctions.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Scanner\Scanner01.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Scanner\Scanner01.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="StimAndSwim\EPhys01.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\StimAndSwim\EPhys01.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="StimAndSwim\StimWindow.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\StimAndSwim\StimWindow.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="StimAndSwim\StimWindow.Designer.cs" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\StimAndSwim\StimWindow.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Properties\Settings.settings" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Properties\Resources.resx" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="StimAndSwim\StimWindow.resx" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\StimAndSwim\StimWindow.resx">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="App.xaml" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\App.xaml">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="Window1.xaml" Description="File successfully backed up as C:\Users\Zebrafish\Desktop\BehaveAndScan01 - Exp\BehaveAndScan01\Backup\Window1.xaml">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="BehaveAndScan01.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BehaveAndScan01" Source="BehaveAndScan01.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BehaveAndScan01" Source="BehaveAndScan01.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

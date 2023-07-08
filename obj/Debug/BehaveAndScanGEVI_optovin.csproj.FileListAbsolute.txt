@@ -1,0 +1,791 @@
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojResolveAssemblyReference.cache
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.Cache
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\AhrensLab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojResolveAssemblyReference.cache
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.Cache
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Ahrens Lab\Documents\Visual Studio 2010\Projects\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.Common.dll
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\Yu\Documents\Study\Mu Lab\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.Common.dll
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\olympus\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.Common.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\pc\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.Common.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.Common.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\pc\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.Common.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\Window1.baml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\Window1.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\App.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI_optovin\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\Microsoft.DirectX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\NationalInstruments.Common.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\Microsoft.DirectX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\Window1.baml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\Window1.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\App.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\Microsoft.DirectX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\NationalInstruments.Common.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\Microsoft.DirectX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\Window1.baml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\Window1.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\App.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI VarLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.Common.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\Window1.baml
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\Window1.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\App.g.cs
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\fish\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.Common.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.xml
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\Window1.baml
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\Window1.g.cs
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\App.g.cs
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\4c BehaveAndScanGEVI fixLength_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.Common.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.DAQmx.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.xml
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.baml
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.g.cs
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\App.g.cs
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+D:\code\C#\ZS\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.Common.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.DAQmx.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.xml
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.baml
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.g.cs
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\App.g.cs
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.Common.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.DAQmx.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.xml
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.baml
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.g.cs
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\App.g.cs
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+Z:\zhaos\C#code\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.Common.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.DAQmx.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.xml
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.baml
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.g.cs
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\App.g.cs
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\SHY\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.exe
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.Common.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.DAQmx.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\NationalInstruments.MStudioCLM.dll
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.xml
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.AssemblyReference.cache
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.SuggestedBindingRedirects.cache
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.baml
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\Window1.g.cs
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\App.g.cs
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.exe
+D:\Code\C# behavioral paradigm\4c BehaveAndScanGEVI fixLength_LS_zs\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.exe
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3D.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.Common.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.DAQmx.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.MStudioCLM.dll
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.xml
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3D.xml
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.AssemblyReference.cache
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.SuggestedBindingRedirects.cache
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\Window1.baml
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\Window1.g.cs
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\App.g.cs
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.exe
+Z:\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\Window1.baml
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\Window1.g.cs
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\App.g.cs
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.exe
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.exe
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3D.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.Common.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.DAQmx.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.MStudioCLM.dll
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.xml
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3D.xml
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+D:\code\C#\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3D.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.Common.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.DAQmx.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\NationalInstruments.MStudioCLM.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.xml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3D.xml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\Window1.baml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\Window1.g.cs
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\App.g.cs
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.baml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.g.cs
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\App.g.cs
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.exe
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3D.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.Common.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.DAQmx.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.MStudioCLM.dll
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.xml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3D.xml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+\\10.10.49.10\d\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.Common.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.baml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.g.cs
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\App.g.cs
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.AssemblyReference.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.SuggestedBindingRedirects.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.baml
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.g.cs
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\App.g.cs
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.exe
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.baml
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\Window1.g.cs
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\App.g.cs
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.exe
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.exe
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3D.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.Common.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.DAQmx.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\NationalInstruments.MStudioCLM.dll
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.xml
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3D.xml
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+Z:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\Microsoft.DirectX.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\NationalInstruments.Common.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\Microsoft.DirectX.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\Window1.baml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\Window1.g.cs
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\App.g.cs
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v1\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.Common.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.DAQmx.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.MStudioCLM.dll
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\Window1.baml
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\Window1.g.cs
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\App.g.cs
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.exe
+C:\Users\mulab-10\Desktop\SHY\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.AssemblyReference.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.SuggestedBindingRedirects.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\Window1.baml
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\Window1.g.cs
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\App.g.cs
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.exe
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.exe
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.Common.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.DAQmx.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.MStudioCLM.dll
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.xml
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+Y:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.exe
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3D.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.Common.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.DAQmx.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\NationalInstruments.MStudioCLM.dll
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.xml
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3D.xml
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\Window1.baml
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\Window1.g.cs
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\App.g.cs
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.exe
+V:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v2\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\BehaveAndScanGEVI_optovin.exe
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\Microsoft.DirectX.Direct3D.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\Microsoft.DirectX.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\NationalInstruments.Common.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\NationalInstruments.DAQmx.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\NationalInstruments.MStudioCLM.dll
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\Microsoft.DirectX.xml
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\Microsoft.DirectX.Direct3D.xml
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\Window1.baml
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\Window1.g.cs
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\App.g.cs
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.exe
+U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.pdb
