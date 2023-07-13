@@ -12,7 +12,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Controls;
 using System.Windows.Shapes;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public class Oscilloscope
     {

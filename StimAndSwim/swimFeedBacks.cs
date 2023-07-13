@@ -5,7 +5,7 @@ using System.Text;
 using System.Windows.Controls;
 using System.Windows.Input;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public partial class StimEphysOscilloscopeControl
     {
@@ -88,23 +88,23 @@ namespace BehaveAndScanGEVI_optovin
 
 
 
-            if (senderWindow.displayObstacles && senderWindow.StationaryObstacles)
+            if (senderWindow.displayObstacles && senderWindow.StationaryObstacles && senderWindow.timedInt)
                 vBackgroundture = senderWindow.vBackground;
-            if (senderWindow.displayObstacles && (!senderWindow.StationaryObstacles))
+            if (senderWindow.displayObstacles && (!senderWindow.StationaryObstacles) && !senderWindow.timedInt)
             {
-                ySec = preObst + obst + postObst; 
-                
+                ySec = preObst + obst + postObst;
+
                 //20221001
                 ySta = preObst + obst + staPos;
 
-                if ((yLocSec > ySta) && (yLocSec < ySec)) // move forward to the sationary phase 20221001
+                if ((yLocSec > ySta) && (yLocSec < ySec)) // move forward to the stationary phase 20221001
                 {
                     StaTimer -= DT;
                     if (StaTimer < 3001 && StaTimer > 1)
                     { vBackgroundture = 0; }
                     else
                     { vBackgroundture = senderWindow.vBackground; }
- 
+
                 }
                 if (yLocSec > ySec) // move forward to the next section
                 {
@@ -131,13 +131,12 @@ namespace BehaveAndScanGEVI_optovin
                             stimParam2 = 2.5;
                             postObst = 10f;
                         }
-                        else 
+                        else
                         {
                             nextBlock = xLocNew - 2.5f;
                             stimParam2 = -2.5;
                             postObst = 10f;
                         }
-
                     }
                 }
 
@@ -153,7 +152,7 @@ namespace BehaveAndScanGEVI_optovin
                         lastBlock = xLocNew + senderWindow.fixed_pos;
                         senderWindow.fixed_pos = senderWindow.fixed_pos * (-1);//alternate obstacle position
                     }
-                    else 
+                    else
                     {
                         Random rand = new Random();
                         //lastBlock = xLocNew + (float)Math.Round(((rand.NextDouble() - 0.5) * 3));
@@ -163,13 +162,13 @@ namespace BehaveAndScanGEVI_optovin
                             stimParam2 = 2.5;
                             postObst = 10f;
                         }
-                        else 
+                        else
                         {
                             nextBlock = xLocNew - 2.5f;
                             stimParam2 = -2.5;
                             postObst = 10f;
                         }
-      
+
                     }
 
                 }
@@ -196,6 +195,66 @@ namespace BehaveAndScanGEVI_optovin
                         }
                     }
                 }
+            }
+            else if (senderWindow.displayObstacles && !senderWindow.StationaryObstacles && senderWindow.timedInt && senderWindow.trialnumber % 2 == 0)
+            {
+                ySec = preObst + obst + postObst_short;
+                vBackgroundture = senderWindow.vBackground;
+                if (enteringObsTrial)
+                {
+                    yLastSec = yLocNew;
+                    enteringObsTrial = false;
+                    if (senderWindow.fixedPosition)
+                    {
+                        nextBlock = xLocNew + senderWindow.fixed_pos;
+                    }
+                    else
+                    {
+                        Random rand = new Random();
+                        if (rand.NextDouble() <= 0.5)
+                        {
+                            nextBlock = xLocNew + 2.5f;
+                            stimParam2 = 2.5;
+                        }
+                        else
+                        {
+                            nextBlock = xLocNew - 2.5f;
+                            stimParam2 = -2.5;
+                        }
+                    }
+                }
+                if (yLocNew- yLastSec > ySec)
+                {
+                    senderWindow.trialnumber++;
+                    enteringIntTrial = true;
+                }
+                else if ((xLocNew - fishWidth / 2 < nextBlock + obst / 2) && (xLocNew + fishWidth / 2 > nextBlock - obst / 2) && ((yLocSec + fishLength / 2) > preObst) && ((yLocSec - fishLength / 2) < (preObst + obst)))
+                {
+                    if (hitTimer < 1000) //20210828
+                    {
+                        if (((yLocSec + fishLength / 2) > preObst) && ((senderWindow.yLoc + fishLength / 2 - yLastSec) <= preObst + 0.001f))
+                        {
+                            hitTimer += DT;
+                            vel = (preObst - senderWindow.yLoc + yLastSec - fishLength / 2) / DT;
+                        }
+                        else if ((xLocNew - fishWidth / 2 <= nextBlock + obst / 2) && (senderWindow.xLoc + fishWidth / 2 >= nextBlock + obst / 2))
+                        {
+                            vel2 = ((nextBlock + obst / 2) - senderWindow.xLoc + fishWidth / 2) / DT + 0.001f;
+                        }
+                        else if ((xLocNew + fishWidth / 2 >= nextBlock - obst / 2) && (senderWindow.xLoc - fishWidth / 2 <= nextBlock - obst / 2))
+                        {
+                            vel2 = ((nextBlock - obst / 2) - senderWindow.xLoc - fishWidth / 2) / DT - 0.001f;
+                        }
+                        else
+                        {
+                            vel = (preObst + obst - senderWindow.yLoc + fishLength / 2 + yLastSec) / DT + 0.001f;
+                        }
+                    }
+                }
+            }
+            else if (senderWindow.displayObstacles && !senderWindow.StationaryObstacles && senderWindow.timedInt && senderWindow.trialnumber % 2 != 0)
+            {
+                vBackgroundture = 0;
             }
             senderWindow.xLoc += DT * vel2;
             senderWindow.yLoc += DT * vel;

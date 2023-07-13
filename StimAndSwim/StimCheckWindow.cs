@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public  partial class StimCheckWindow : Form 
     {

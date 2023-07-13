@@ -11,7 +11,7 @@ using System.Windows;
 using System.Diagnostics;
 
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public partial class StimEphysOscilloscopeControl
     {

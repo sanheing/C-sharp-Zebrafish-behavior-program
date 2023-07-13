@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public struct StimParams
     {
@@ -89,6 +89,7 @@ namespace BehaveAndScanGEVI_optovin
         public int slmOnSeg;
         public int slmOffSeg;
         public string slmPath;
+        public int patternNum;
     }
     /*------------------------------*/
 }

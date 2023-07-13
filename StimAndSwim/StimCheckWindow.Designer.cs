@@ -1,4 +1,4 @@
-﻿namespace BehaveAndScanGEVI_optovin
+﻿namespace BehaveAndScanGECI
 {
     partial class StimCheckWindow
     {

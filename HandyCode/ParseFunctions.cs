@@ -10,7 +10,7 @@ using System.Text;
 using System.IO;
 using NationalInstruments.DAQmx;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public class ParseFunctions
     {

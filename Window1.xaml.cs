@@ -23,7 +23,7 @@ using System.Drawing;
 using System.Data;
 
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     /// <summary>
     /// Interaction logic for Window1.xaml
@@ -90,6 +90,7 @@ namespace BehaveAndScanGEVI_optovin
         public int trialnumber = 0; //20210819
         public int CurrObstacleDur = 0; //20230322
         public int RecordTime = 0;
+        public bool timedInt = true;
 
         // Optogenetic component
         /*--------------------------------------*/
@@ -236,6 +237,7 @@ namespace BehaveAndScanGEVI_optovin
             slmParam.slmOnSeg = 50;
             slmParam.slmOffSeg = 50;
             slmParam.slmPath = "\\\\10.10.49.10\\d\\SHY\\OptoStimPattern\\";
+            slmParam.patternNum = 2;
             /*---------------------------------------*/
 
         }
@@ -247,7 +249,10 @@ namespace BehaveAndScanGEVI_optovin
             gain2Check.IsChecked = StimEphysOscilloscopeControl.switchDisp.gain2check;
             FrameNumDisp.Content = StimEphysOscilloscopeControl.switchDisp.frameNum.ToString("0");
             StackNumDisp.Content = StimEphysOscilloscopeControl.switchDisp.stackNum.ToString("0");
-            TrialNumDisp.Content = Math.Ceiling((trialnumber+1)/2f);
+            if(StationaryObstacles|| (!StationaryObstacles && timedInt)) // 
+                TrialNumDisp.Content = Math.Ceiling((trialnumber+1)/2f);
+            else
+                TrialNumDisp.Content = trialnumber + 1;
             CurrTrialOngoingT.Content = currTrialgoingT;
             RecTime.Content = RecordTime;
             TrialLen.Content = CurrObstacleDur;
@@ -644,7 +649,7 @@ namespace BehaveAndScanGEVI_optovin
             Reset_Location();
         }
 
-        private void Reset_Location()
+        public void Reset_Location()
         {
             xLoc = 0;
             yLoc = 0;
@@ -840,6 +845,26 @@ namespace BehaveAndScanGEVI_optovin
                 trialInfoTable.Rows.Remove(selectedDataTableRow);
                 blockNum--;
             }
+        }
+
+        private void TimedInterval_check(object sender, RoutedEventArgs e)
+        {
+            timedInt = true;
+        }
+
+        private void TimedInterval_Uncheck(object sender, RoutedEventArgs e)
+        {
+            timedInt = false;
+        }
+
+        private void DisappearDis_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            float.TryParse(DisappearDis.Text, out StimEphysOscilloscopeControl.postObst_short);
+        }
+
+        private void PattNum_TextChanged(object sender, TextChangedEventArgs e)
+        {
+            int.TryParse(PattNum.Text, out slmParam.patternNum);
         }
 
         private void CamTrigger_Click(object sender, RoutedEventArgs e)

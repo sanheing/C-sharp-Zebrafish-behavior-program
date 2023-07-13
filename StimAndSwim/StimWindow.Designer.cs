@@ -1,4 +1,4 @@
-﻿namespace BehaveAndScanGEVI_optovin
+﻿namespace BehaveAndScanGECI
 {
     partial class StimWindow
     {
@@ -47,7 +47,6 @@
             this.TopMost = true;
             this.Load += new System.EventHandler(this.StimWindow_Load);
             this.ResumeLayout(false);
-
         }
 
         #endregion

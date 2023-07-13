@@ -12,7 +12,7 @@ using System.Diagnostics;
 using NationalInstruments.DAQmx;
 
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public partial class StimEphysOscilloscopeControl
     {
@@ -152,8 +152,11 @@ namespace BehaveAndScanGEVI_optovin
         public float obst = 3.5f;
         public float preObst = 4f;
         public float postObst = 10f;
+        static public float postObst_short = 3f;
         public float staPos = 6f; //20221001
         public float ySec, yLocSec, yLastSec, ySta;
+        public bool enteringObsTrial = true;
+        public bool enteringIntTrial = false;
         public float boundary = 8f;
         public float leftWall, rightWall, xNext, yNext, xLast, yLast, xLocNew, yLocNew;
         public float xFish = -0.7f;
@@ -217,7 +220,7 @@ namespace BehaveAndScanGEVI_optovin
             if (senderWindow.OptoStimOn)
             {
                 opto1.LoadParams(senderWindow.slmParam);
-                opto1.pictureBox1.Image = opto1.pattern0;
+                opto1.pictureBox1.Image = opto1.patterns[0];
             }
             displayThread = new Thread(new ParameterizedThreadStart(renderLoopLoop));
             displayThread.Start(this);
@@ -404,7 +407,7 @@ namespace BehaveAndScanGEVI_optovin
                 for (int i = 0; i<trialLen.Length;i++)
                 {
                     trialNum += trialLen[i];
-                    if (senderWindow.trialnumber < trialNum * 2)
+                    if (senderWindow.trialnumber%trialLen.Sum() < trialNum * 2)
                     {
                         currBlock = i;
                         break;
@@ -493,10 +496,7 @@ namespace BehaveAndScanGEVI_optovin
                     if (optoStart == 1)
                     {
                         optoThread = new Thread(new ParameterizedThreadStart(slmSequence));
-                        if (senderWindow.trialnumber < senderWindow.block1Len*2+senderWindow.block2Len*2)
-                        { optoThread.Start(1); }
-                        else 
-                        { optoThread.Start(2); }
+                        optoThread.Start(stimPattern[currBlock]);
                     }
                     optoStart = 0;
                 }
@@ -674,7 +674,7 @@ namespace BehaveAndScanGEVI_optovin
                             optoThreadStopped = true;
                     }
                     stimulus1.CloseWindow();
-                    stimulus1.Dispose();
+                    //stimulus1.Dispose();
                     stimulus1.Close();
                     stimulus1 = null;
                     /*------------------------------*/

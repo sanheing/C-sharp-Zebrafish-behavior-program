@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public partial class OptoWindow : Form
     {
-        public System.Drawing.Bitmap pattern0, pattern1, pattern2, nextPattern;
+        public System.Drawing.Bitmap[] patterns;
         public System.Diagnostics.Stopwatch stopwatch;
         public slmParams slmParam0;
         public OptoWindow()
@@ -26,9 +26,11 @@ namespace BehaveAndScanGEVI_optovin
         {
             slmParam0 = slmParam1;
             this.Location = System.Windows.Forms.Screen.AllScreens[slmParam0.slmScreen].WorkingArea.Location;
-            pattern0 = new Bitmap(slmParam0.slmPath + "0.png");
-            pattern1 = new Bitmap(slmParam0.slmPath + "1.png");
-            pattern2 = new Bitmap(slmParam0.slmPath + "2.png");
+            patterns = new Bitmap[slmParam0.patternNum];
+            for (int i = 0; i<=slmParam0.patternNum; i++)
+            {
+                patterns[i] = new Bitmap(slmParam0.slmPath + i.ToString() + ".png");
+            }
             //pattern0 = new Bitmap(slmParam0.slmPath + "0.bmp");
             //pattern1 = new Bitmap(slmParam0.slmPath + "1.bmp");
             //pattern2 = new Bitmap(slmParam0.slmPath + "2.bmp");
@@ -39,77 +41,38 @@ namespace BehaveAndScanGEVI_optovin
         {
             float time_past = 0f;
             int seqState = 0;
-            pictureBox1.Image = pattern0;
+            pictureBox1.Image = patterns[0];
             stopwatch = new System.Diagnostics.Stopwatch();
             stopwatch.Start();
-            if (seqNum == 1)
+            pictureBox1.Image = patterns[seqNum];
+            seqState = seqNum;
+            StimEphysOscilloscopeControl.optoOngoing = seqNum;
+            while (stopwatch.ElapsedMilliseconds < slmParam0.slmSeqLen)
             {
-                pictureBox1.Image = pattern1;
-                seqState = 1;
-                BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 1;
-                while (stopwatch.ElapsedMilliseconds < slmParam0.slmSeqLen)
+                if (seqState == 0 & (stopwatch.ElapsedMilliseconds - time_past) > slmParam0.slmOffSeg)
                 {
-                    if (seqState == 0 & (stopwatch.ElapsedMilliseconds - time_past) > slmParam0.slmOffSeg)
-                    {
-                        float current_time = stopwatch.ElapsedMilliseconds;
-                        pictureBox1.Image = pattern1;
-                        seqState = 1;
-                        //Console.WriteLine(current_time - time_past);
-                        time_past = current_time;
-                        BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 1;
-                    }
-                    else if (seqState == 1 & (stopwatch.ElapsedMilliseconds - time_past) > slmParam0.slmOnSeg)
-                    {
-                        float current_time = stopwatch.ElapsedMilliseconds;
-                        pictureBox1.Image = pattern0;
-                        seqState = 0;
-                        //Console.WriteLine(current_time - time_past);
-                        time_past = current_time;
-                        BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 0;
-                    }
+                    float current_time = stopwatch.ElapsedMilliseconds;
+                    pictureBox1.Image = patterns[seqNum];
+                    seqState = seqNum;
+                    time_past = current_time;
+                    StimEphysOscilloscopeControl.optoOngoing = seqNum;
+                }
+                else if (seqState != 0 & (stopwatch.ElapsedMilliseconds - time_past) > slmParam0.slmOnSeg)
+                {
+                    float current_time = stopwatch.ElapsedMilliseconds;
+                    pictureBox1.Image = patterns[0];
+                    seqState = 0;
+                    //Console.WriteLine(current_time - time_past);
+                    time_past = current_time;
+                    StimEphysOscilloscopeControl.optoOngoing = 0;
                 }
             }
-            else if (seqNum == 2)
+            if (seqState != 0)
             {
-                pictureBox1.Image = pattern2;
-                seqState = 1;
-                BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 2;
-                while (stopwatch.ElapsedMilliseconds < slmParam0.slmSeqLen)
-                {
-                    if (seqState == 0 & stopwatch.ElapsedMilliseconds < slmParam0.slmOffSeg)
-                    {
-                        float current_time = stopwatch.ElapsedMilliseconds;
-                        pictureBox1.Image = pattern2;
-                        seqState = 1;
-                        //Console.WriteLine(current_time - time_past);
-                        time_past = current_time;
-                        BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 2;
-                    }
-                    if (seqState == 0 & (stopwatch.ElapsedMilliseconds - time_past) > slmParam0.slmOffSeg)
-                    {
-                        float current_time = stopwatch.ElapsedMilliseconds;
-                        pictureBox1.Image = pattern2;
-                        seqState = 1;
-                        //Console.WriteLine(current_time - time_past);
-                        time_past = current_time;
-                        BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 2;
-                    }
-                    else if (seqState == 1 & (stopwatch.ElapsedMilliseconds - time_past) > slmParam0.slmOnSeg)
-                    {
-                        float current_time = stopwatch.ElapsedMilliseconds;
-                        pictureBox1.Image = pattern0;
-                        seqState = 0;
-                        //Console.WriteLine(current_time - time_past);
-                        time_past = current_time;
-                        BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 0;
-                    }
-                }
+                pictureBox1.Image = patterns[0];
+                seqState = 0;
             }
-            if (pictureBox1.Image != pattern0)
-            {
-                pictureBox1.Image = pattern0;
-            }
-            BehaveAndScanGEVI_optovin.StimEphysOscilloscopeControl.optoOngoing = 0;
+            StimEphysOscilloscopeControl.optoOngoing = 0;
             stopwatch.Stop();
         }
 

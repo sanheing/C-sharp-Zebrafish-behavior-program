@@ -789,3 +789,32 @@ U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\Beh
 U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
 U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.exe
 U:\SHY\C# code\DecisionExperimentTask_VarTimeLen_VR LS_shy_opto_v3\obj\Debug\BehaveAndScanGEVI_optovin.pdb
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\BehaveAndScanGEVI_optovin.exe.config
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\BehaveAndScanGEVI_optovin.exe
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\BehaveAndScanGEVI_optovin.pdb
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\Microsoft.DirectX.Direct3D.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\Microsoft.DirectX.Direct3DX.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\Microsoft.DirectX.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\NationalInstruments.Common.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\NationalInstruments.DAQmx.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\NationalInstruments.NiLmClientDLL.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\NationalInstruments.MStudioCLM.dll
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\Microsoft.DirectX.xml
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\Microsoft.DirectX.Direct3D.xml
+U:\SHY\C# code\DET_VRorLS_shy_v4\bin\Debug\Microsoft.DirectX.Direct3DX.xml
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.csprojAssemblyReference.cache
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.csproj.ResolveComReference.cache
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\Window1.baml
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\Window1.g.cs
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\App.g.cs
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin_MarkupCompile.cache
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.g.resources
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI.Properties.Resources.resources
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.OptoWindow.resources
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.StimCheckWindow.resources
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.StimWindow.resources
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.csproj.GenerateResource.cache
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CoreCompileInputs.cache
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.csproj.CopyComplete
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.exe
+U:\SHY\C# code\DET_VRorLS_shy_v4\obj\Debug\BehaveAndScanGEVI_optovin.pdb

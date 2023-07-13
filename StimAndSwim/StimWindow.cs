@@ -13,8 +13,9 @@ using System.Threading;
 using System.Diagnostics.Contracts;
 using System.Windows;
 using System.Runtime.ConstrainedExecution;
+using System.Diagnostics;
 
-namespace BehaveAndScanGEVI_optovin
+namespace BehaveAndScanGECI
 {
     public partial class StimWindow : Form
     {
@@ -48,6 +49,7 @@ namespace BehaveAndScanGEVI_optovin
         private float JitterFrequency = 3f;//3f
         //private float JitterAmplitude = 0f;//0.02f
         private float TimeElapsed;
+        public int intvlStartT;
         public StimWindow()
         {
             InitializeComponent();
@@ -103,9 +105,9 @@ namespace BehaveAndScanGEVI_optovin
                     AccumulateTime += Math.Abs(IntervalLen[(i-1) / 2]);
                 TimeSeq[i] = AccumulateTime;
             }
-           
 
 
+            Debug.WriteLine(ObstaclesDur.Count(x => x == -6));
             GraphicsStream stm1 = backgroundV1.Lock(0, 0, 0);     // Lock the background vertex list
             int clr1 = System.Drawing.Color.Transparent.ToArgb();
             stm1.Write(new CustomVertex.PositionColoredTextured(-ww / 3f, -hh / 3f, 0, clr1, 0, 1));   // here the size of the background
@@ -130,19 +132,14 @@ namespace BehaveAndScanGEVI_optovin
 
         public int[] RandomSelect(int[] array, int n)
         {
-            int[] result = new int[n];
             Random random = new Random();
-            List<int> indices = new List<int>();
-            for (int i = 0; i < array.Length; i++)
-            {
-                indices.Add(i);
-            }
+            int[] sampledArray = new int[n];
             for (int i = 0; i < n; i++)
             {
-                int index = random.Next(indices.Count);
-                result[i] = array[indices[index]];
+                int randomIndex = random.Next(0, array.Length);
+                sampledArray[i] = array[randomIndex];
             }
-            return result;
+            return sampledArray;
         }
 
         private bool InitializeDirect3D()
@@ -255,12 +252,11 @@ namespace BehaveAndScanGEVI_optovin
                 }
                 else
                 { stimSender.senderWindow.trialnumber++; }
-                stimSender.senderWindow.RecordTime = stimSender.tt;
+                
             }
-            if (stimSender.senderWindow.displayObstacles && (!stimSender.senderWindow.StationaryObstacles))
+            if (stimSender.senderWindow.displayObstacles && !stimSender.senderWindow.StationaryObstacles && !stimSender.senderWindow.timedInt)
             {
                 TimeElapsed = (float)stopwatch.ElapsedMilliseconds / 1000;
-                Console.WriteLine(TimeElapsed);
                 if (stimSender.isJittering)
                 {
                     DrawObstacles((float)stimSender.displayAngle, stimSender.xNext, (float)(stimSender.yNext + Math.Sin(TimeElapsed * JitterFrequency * 2 * Math.PI) * stimSender.senderWindow.JitterAmplitude), stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceP, vertices1);
@@ -286,14 +282,47 @@ namespace BehaveAndScanGEVI_optovin
                 //DrawObstaclesTexture((float)stimSender.displayAngle, stimSender.xLast, stimSender.yLast, stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceP, vertices3, textureP);
                 //DrawObstaclesTexture((float)stimSender.displayAngle, stimSender.xLast, stimSender.yLast, stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceW, vertices4, textureW);
             }
-            DrawFish((float)stimSender.displayAngle, stimSender.xFish, stimSender.yFish, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceW, vertices2);   
+            if (stimSender.senderWindow.displayObstacles && !stimSender.senderWindow.StationaryObstacles && stimSender.senderWindow.timedInt && stimSender.senderWindow.trialnumber % 2 == 0)
+            {
+                if (stimSender.isJittering)
+                {
+                    DrawObstacles((float)stimSender.displayAngle, stimSender.xNext, (float)(stimSender.yNext + Math.Sin(TimeElapsed * JitterFrequency * 2 * Math.PI) * stimSender.senderWindow.JitterAmplitude), stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceP, vertices1);
+                    DrawObstacles((float)stimSender.displayAngle, stimSender.xNext, (float)(stimSender.yNext + Math.Sin(TimeElapsed * JitterFrequency * 2 * Math.PI) * stimSender.senderWindow.JitterAmplitude), stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceW, vertices2);
+                }
+                else
+                {
+                    DrawObstacles((float)stimSender.displayAngle, stimSender.xNext, stimSender.yNext, stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceP, vertices1);
+                    DrawObstacles((float)stimSender.displayAngle, stimSender.xNext, stimSender.yNext, stimSender.obst, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceW, vertices2);
+                }
+            }
+            if (stimSender.senderWindow.displayObstacles && !stimSender.senderWindow.StationaryObstacles && stimSender.senderWindow.timedInt && stimSender.senderWindow.trialnumber % 2 != 0)
+            {
+                if(stimSender.enteringIntTrial)
+                {
+                    stimSender.stimParam2 = IntervalLen[stimSender.senderWindow.trialnumber/2];
+                    stimSender.senderWindow.CurrObstacleDur = IntervalLen[stimSender.senderWindow.trialnumber / 2];
+                    stimSender.enteringIntTrial = false;
+                    intvlStartT = stimSender.tt;
+                }
+                if (stimSender.tt - intvlStartT > stimSender.stimParam2)
+                {
+                    stimSender.senderWindow.trialnumber++;
+                    stimSender.senderWindow.CurrObstacleDur = 0;
+                    stimSender.enteringObsTrial = true;
+                    stimSender.senderWindow.currTrialgoingT = 0;
+                }
+                else
+                    stimSender.senderWindow.currTrialgoingT = stimSender.tt - intvlStartT;
+            }
+                DrawFish((float)stimSender.displayAngle, stimSender.xFish, stimSender.yFish, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceW, vertices2);   
             if (stimSender.senderWindow.displayFish)
             {
                 DrawFish((float)stimSender.displayAngle, stimSender.xFish, stimSender.yFish, (byte)stimSender.ObstacleContrast, stimSender.blevel, stimSender.dH, deviceP, vertices1);
             }
 
             Flip(deviceP);
-            Flip(deviceW);         
+            Flip(deviceW);
+            stimSender.senderWindow.RecordTime = stimSender.tt;
         }
 
 
@@ -884,6 +913,8 @@ namespace BehaveAndScanGEVI_optovin
 
         public void CloseWindow()
         {
+            deviceP.Dispose();
+            deviceW.Dispose();
             SCWindow.Dispose();
             SCWindow.Close();
             SCWindow = null;
